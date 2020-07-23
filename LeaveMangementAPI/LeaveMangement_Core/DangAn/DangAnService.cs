@@ -12,9 +12,9 @@ namespace LeaveMangement_Core.DangAn
         //    string authCode = GetAuthCode();
         //    var res = new object();
         //    String product = "Dysmsapi";//短信API产品名称
-        //    String domain = "dysmsapi.aliyuncs.com";//短信API产品域名
-        //    String accessKeyId = "LTAI8ycvhTECXXBd";//你的accessKeyId
-        //    String accessKeySecret = "CDsFCymCKQhfHfOgj7vDXbhD5dKwBx";//你的accessKeySecret
+        //    String domain = "";//短信API产品域名
+        //    String accessKeyId = "";//你的accessKeyId
+        //    String accessKeySecret = "";//你的accessKeySecret
         //    IClientProfile profile = DefaultProfile.GetProfile("cn-hangzhou", accessKeyId, accessKeySecret);
         //    DefaultProfile.AddEndpoint("cn-hangzhou", "cn-hangzhou", product, domain);
         //    IAcsClient acsClient = new DefaultAcsClient(profile);
